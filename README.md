@@ -1,2 +1,2 @@
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bwwaefoe9rqg4lcokpf63s1vp&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&profanity=false&bar_color=cfff0d&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=bwwaefoe9rqg4lcokpf63s1vp&redirect=true)
 <img width="640" height="447" alt="IMG_1013" src="https://github.com/user-attachments/assets/203d6547-ae31-4416-af38-30a13b6877fc" />
